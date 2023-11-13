@@ -1,4 +1,4 @@
-# Dell Inspiron 5490
+# Hackintosh Dell Inspiron 5490 (i5)
 
 ## EFI Details
 **macOS**: 14.1.1
