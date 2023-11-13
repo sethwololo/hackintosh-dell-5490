@@ -38,4 +38,4 @@
 
 ### Credits
 - [Gabriel Luchina](https://github.com/luchina-gabriel/)
-- [Gabriel Luchina](https://github.com/luchina-gabriel/)
+- [Dortania's guide](https://dortania.github.io/OpenCore-Install-Guide/)
